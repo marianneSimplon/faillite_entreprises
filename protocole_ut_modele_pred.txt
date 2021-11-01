@@ -1,0 +1,5 @@
+PROTOCOLE D'UTILISATION DU MODELE POUR FAIRE DES PREDICTIONS
+
+Télécharger Jupyter Noetbook (inclu dans Anaconda)
+Dans notebook_predictions.ipynb, 
+remplacer le chemin d'accès par celui du fichier dans lequel il y a les données des entreprises dont on veut prédire la faillite ou non.
